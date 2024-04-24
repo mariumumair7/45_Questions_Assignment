@@ -1,0 +1,35 @@
+let alien_color5 = "green";
+if (alien_color5 == "green") {
+  console.log("The player just earned 5 points!");
+}
+else if (alien_color5 == "yellow") {
+  console.log("The player just earned 10 points!");
+}
+else if (alien_color5 == "red") {
+  console.log("The player just earned 15 points!");
+}
+else {
+  console.log("The player just earned 0 points!");
+}
+ 
+let alien_color6 = "yellow";
+if (alien_color6 == "green") {
+  console.log("The player just earned 5 points!");
+}
+else if (alien_color6 == "yellow") {
+  console.log("The player just earned 10 points!");
+}
+else if (alien_color6 == "red") {
+  console.log("The player just earned 15 points!");
+}
+
+let alien_color7 = "red";       
+if (alien_color7 == "green") {
+  console.log("The player just earned 5 points!");
+}
+else if (alien_color7 == "yellow") {
+  console.log("The player just earned 10 points!");
+}
+else if (alien_color7 == "red") {
+  console.log("The player just earned 15 points!");
+}
